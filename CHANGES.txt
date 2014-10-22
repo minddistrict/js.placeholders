@@ -1,0 +1,7 @@
+CHANGES
+*******
+
+3.0.2 (unreleased)
+===============================
+
+- Initial release.
